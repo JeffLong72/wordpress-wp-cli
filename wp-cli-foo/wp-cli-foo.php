@@ -4,8 +4,8 @@
  Plugin URI:  
  Description: A WP-CLI addon command for testing purposes. Use <strong>$ wp foo [function-name]</strong> to call a specific function. You can also pass multiple key=value params to the function by using <strong>$ wp foo [function-name] --key=value  --key=value</strong>
  Version: 1.0.0
- Author:      ACC Digital (Jeff Long)
- Author URI:  https://www.acc.cc/
+ Author:      Jeff Long
+ Author URI:  
  License: GPLv2+
  */
 
