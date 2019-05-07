@@ -15,6 +15,6 @@ Type $ wp foo test --name='Joe bloggs' --email='joe@bloggs.com' to send the "nam
 
 # Installation
 
-Upload the folder "wp-cli-foo" to "wp-content/plugins/wp-cli-foo", then activate the plugin in Wordpress admin area in the "Plugins" section.
+Upload the folder "WP-CLI Foo" to "wp-content/plugins/wp-cli-foo", then activate the plugin in Wordpress admin area in the "Plugins" section.
 
 
