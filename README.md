@@ -5,13 +5,15 @@ Tested on Wordpress v5.1.1
 
 # What is this?
 
-A test plugin to allow WP-CLI to run custom functions and pass additional parameters.
+A test plugin to allow WP-CLI to run custom functions and send additional params ( params are optional ).
 
-Command: **$ wp foo [the-function-name] --key=value --key=value**
+Basic command: **$ wp foo [the-function-name]**
+
+Command with params: **$ wp foo [the-function-name] --key=value --key=value**
 
 Example; 
 
-Type **$ wp foo test --name='Joe bloggs' --email='joe@bloggs.com'** to send the "name" and "email" params to the "test" function within the "foo" class. You can add as many additional * *--key=value params* * as required.
+Type **$ wp foo test --name='Joe bloggs' --email='joe@bloggs.com'** to send the "name" and "email" params to the "test" function within the "foo" class. You can add as many additional *--key=value params* as required.
 
 # Installation
 
