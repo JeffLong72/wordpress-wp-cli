@@ -3,7 +3,7 @@ Wordpress plugin for custom WP-CLI commands
 
 Tested on Wordpress v5.1.1
 
-# Purpose
+# What is this?
 
 A test plugin to allow WP-CLI to run custom functions and pass additional parameters.
 
