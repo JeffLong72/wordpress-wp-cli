@@ -25,7 +25,7 @@ class WP_CLI_Foo extends WP_CLI_Command {
 			default:
 				WP_CLI::error( "Missing [function-name], try using the command: $ wp foo test", $exit = true );
 		}
-    }
+    	}
 	
 	public function test($assoc_args) 
 	{
