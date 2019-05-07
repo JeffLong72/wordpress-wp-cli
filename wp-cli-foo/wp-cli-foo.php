@@ -1,11 +1,11 @@
 <?php
 /**
  Plugin Name: WP-CLI Foo
- Plugin URI:  
+ Plugin URI:  https://github.com/JeffLong72/wordpress-wp-cli
  Description: A WP-CLI addon command for testing purposes. Use <strong>$ wp foo [function-name]</strong> to call a specific function. You can also pass multiple key=value params to the function by using <strong>$ wp foo [function-name] --key=value  --key=value</strong>
  Version: 1.0.0
  Author:      Jeff Long
- Author URI:  
+ Author URI:  https://github.com/JeffLong72/wordpress-wp-cli
  License: GPLv2+
  */
 
