@@ -1,19 +1,17 @@
 # Wordpress-wp-cli
-Wordpress plugin for developing custom WP-CLI commands - https://wp-cli.org/
+A skeleton Wordpress plugin for developing custom WP-CLI commands - https://wp-cli.org/
 
 Tested on Wordpress v5.1.1
 
-# What is this?
-
-A skeleton plugin for WP-CLI, for developing custom functions and sending additional params ( params are optional ).
+# How to use
 
 Basic command: `$ wp foo [the-function-name]`
 
 Command with params: `$ wp foo [the-function-name] --key=value --key=value`
 
-Example; 
+Example: 
 
-The WP-CLI command `$ wp foo test --name='Joe bloggs' --email='joe@bloggs.com'` will send the `name` and `email` values to the `test` function within the `foo` class. You can add as many additional *--key=value* params as you need.
+The WP-CLI command `$ wp foo test --name='Joe bloggs' --email='joe@bloggs.com'` will send the `name` and `email` values to the `test` function within the `foo` class ( You can add as many additional *--key=value* params as you need ).
 
 # Installation
 
