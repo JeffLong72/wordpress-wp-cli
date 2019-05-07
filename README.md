@@ -11,7 +11,7 @@ Command: $ wp foo [the-function-name] --key=value --key=value
 
 Example; 
 
-Type $ wp foo test --name='Joe bloggs' --email='joe@bloggs.com' to pass the "name" and "email" params to the "test" function within the "foo" class.
+Type $ wp foo test --name='Joe bloggs' --email='joe@bloggs.com' to send the "name" and "email" params to the "test" function within the "foo" class. You can add as many additional --key=value params as required.
 
 # Installation
 
