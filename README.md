@@ -18,4 +18,8 @@ Type $ wp foo test --name='Joe bloggs' --email='joe@bloggs.com' to send the "nam
 1) Upload the folder "wp-cli-foo" to "wp-content/plugins/wp-cli-foo"
 2) Activate the "WP-CLI Foo" plugin in Wordpress admin area in the "Plugins" section.
 
+# Disclaimer
+
+This is a personal project, use at your own risk!
+
 
