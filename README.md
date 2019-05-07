@@ -20,6 +20,6 @@ Type $ wp foo test --name='Joe bloggs' --email='joe@bloggs.com' to send the "nam
 
 # Disclaimer
 
-This is a personal project, use at your own risk!
+This is a personal project, use at your own risk! ( Back up your site before testing )
 
 
