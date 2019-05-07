@@ -11,7 +11,7 @@ Command with params: `$ wp foo [the-function-name] --key=value --key=value`
 
 Example: 
 
-The WP-CLI command `$ wp foo test --name='Joe bloggs' --email='joe@bloggs.com'` will send the `name` and `email` values to the `test` function within the `foo` class ( You can add as many additional *--key=value* params as you need ).
+The WP-CLI command `$ wp foo test --name='Joe bloggs' --email='joe@bloggs.com'` will send the `name` and `email` values to the `test` function within the `foo` class ( you can add as many additional *--key=value* params as you need to the command ).
 
 # Installation
 
