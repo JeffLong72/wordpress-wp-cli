@@ -5,7 +5,7 @@ Tested on Wordpress v5.1.1
 
 # What is this?
 
-A skeleton plugin for WP-CLI to run custom functions and send additional params ( params are optional ).
+A skeleton plugin for WP-CLI to develop custom functions and send additional params ( params are optional ).
 
 Basic command: `$ wp foo [the-function-name]`
 
