@@ -9,6 +9,8 @@ A test plugin to allow WP-CLI to run custom functions and pass additional parame
 
 Command: $ wp foo [the-function-name] --key=value --key=value
 
-Example; Typing $ wp foo test --name='Joe bloggs' --email='joe@bloggs.com' will pass the "name" and "email" params to the "foo" class "test" function.
+Example; 
+
+Type $ wp foo test --name='Joe bloggs' --email='joe@bloggs.com' to pass the "name" and "email" params to the "test" function within the "foo" class.
 
 
