@@ -1,5 +1,5 @@
 # Wordpress-wp-cli
-Wordpress plugin for custom WP-CLI commands - https://wp-cli.org/
+Wordpress plugin for developing custom WP-CLI commands - https://wp-cli.org/
 
 Tested on Wordpress v5.1.1
 
