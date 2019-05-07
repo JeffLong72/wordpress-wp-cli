@@ -7,7 +7,7 @@ Tested on Wordpress v5.1.1
 
 Basic command: `$ wp foo [the-function-name]`
 
-Command with params: `$ wp foo [the-function-name] --key=value --key=value`
+Command with optional params: `$ wp foo [the-function-name] --key=value --key=value`
 
 Example: 
 
