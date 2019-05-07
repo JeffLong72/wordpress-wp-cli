@@ -5,7 +5,7 @@ Tested on Wordpress v5.1.1
 
 # What is this?
 
-A test plugin to allow WP-CLI to run custom functions and send additional params ( params are optional ).
+A skeleton plugin to allow WP-CLI to run custom functions and send additional params ( params are optional ).
 
 Basic command: `$ wp foo [the-function-name]`
 
