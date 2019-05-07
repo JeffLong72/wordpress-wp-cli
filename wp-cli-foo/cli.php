@@ -15,7 +15,7 @@
  
 class WP_CLI_Foo extends WP_CLI_Command {
 
-    public function __invoke( $args, $assoc_args ) 
+   	public function __invoke( $args, $assoc_args ) 
 	{
 		switch($args[0]) 
 		{
